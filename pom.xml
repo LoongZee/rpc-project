@@ -11,6 +11,7 @@
     <modules>
         <module>io-rpc</module>
         <module>nio-rpc</module>
+        <module>aio-rpc</module>
     </modules>
 
 
